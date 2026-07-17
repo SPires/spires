@@ -1,12 +1,5 @@
-<h1 style="text-align: center;"> 🌒 🌓 🌔 🌕 🌖 🌗 🌘 </h1>
-
 <div align="center">
-
-# Meu Título Centralizado
-
-Este texto está no meio da tela.
-![Uma imagem centralizada](link-da-sua-imagem.png)
-
+# 🌒 🌓 🌔 🌕 🌖 🌗 🌘
 </div>
 
 <!--
